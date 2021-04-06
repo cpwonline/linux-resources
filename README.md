@@ -1,2 +1,2 @@
-# linux-themes-icons
-Some Linux themes and icons
+# linux-resources
+Some Linux themes, icons and other resources
